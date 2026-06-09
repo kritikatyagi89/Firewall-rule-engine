@@ -153,7 +153,4 @@ pytest --cov=app tests/ --cov-report=term-missing
 	- `api/` - Flask blueprint exposing REST endpoints
 - `tests/` - pytest test suite covering models, engine, API, and database
 
-## Sample Output
-
-![Sample Output Placeholder](docs/sample_output_placeholder.png)
 
